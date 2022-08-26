@@ -1,2 +1,2 @@
 console.log("this is the second part")
-console.log("this is the second part checking another part")
+console.log("I want to check a conflict")
