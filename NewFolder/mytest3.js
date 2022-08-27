@@ -7,5 +7,11 @@ console.log("Before go to have lunch")
 console.log("I need to go to my car")
 console.log("I need to share my location")
 
-console.log("this is to check the conflicts from the repossitory")
+console.log("1")
+console.log("2")
+console.log("3")
+console.log("4")
+
+console.log("5")
+console.log("6")
 
