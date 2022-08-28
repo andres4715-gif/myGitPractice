@@ -46,9 +46,9 @@ function iAmTakingThis() {
     console.log("this is a groovy function"); 
   }
 
-1
-2
-3
+  function thisIsJavaScriptFunction() {
+    console.log("is better to find something with javaScript"); 
+  }
 
   function functionWithJava() {
     console.log("this is a java function"); 
