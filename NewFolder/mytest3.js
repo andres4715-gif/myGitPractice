@@ -35,6 +35,10 @@ function iAmTakingThis() {
     console.log("this is a groovy function"); 
   }
 
+  function thisIsJavaScriptFunction() {
+    console.log("is better to find something with javaScript"); 
+  }
+
   public static void functionWithJava() {
     console.log("this is a java function"); 
   }
