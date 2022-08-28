@@ -22,6 +22,7 @@ console.log("6")
 
 console.log("luis is waiting for me")
 <<<<<<< HEAD
+<<<<<<< HEAD
 console.log("checking it with the repo")
 
 
@@ -47,3 +48,10 @@ def iAmTakingThis() {
   println("printing something)
 }
           
+=======
+console.log("checking it with the repo")
+
+function iAmTakingThis() {
+    console.log("javascript funciton"); 
+  }
+>>>>>>> 2d9200e (new javascript funciton)
