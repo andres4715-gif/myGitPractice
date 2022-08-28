@@ -48,10 +48,12 @@ def iAmTakingThis() {
   println("printing something)
 }
           
-=======
 console.log("checking it with the repo")
 
 function iAmTakingThis() {
     console.log("javascript funciton"); 
   }
->>>>>>> 2d9200e (new javascript funciton)
+
+def secondTryFromTheRepo() {
+    console.log("this is a groovy function"); 
+  }
