@@ -53,5 +53,3 @@ function iAmTakingThis() {
   function functionWithJava() {
     console.log("this is a java function"); 
   }
-
-// This is a new text from the repository master
