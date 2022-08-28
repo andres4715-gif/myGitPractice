@@ -58,6 +58,6 @@ function iAmTakingThis() {
     console.log("javascript funciton"); 
   } 
 
-  def secondTryFromTheRepo() {
+  function secondTryFromTheRepo() {
     console.log("this is a groovy function"); 
   }
