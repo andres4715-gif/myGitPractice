@@ -40,3 +40,9 @@ console.log("1b")
 console.log("1c")
 
 
+
+
+def iAmTakingThis() {
+  println("printing something)
+}
+          
