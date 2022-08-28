@@ -27,6 +27,10 @@ function iAmTakingThis() {
     console.log("javascript funciton"); 
   }
 
-def secondTryFromTheRepo() {
+  function iAmTakingThisFromjavaScript() {
+    console.log("javascript funciton"); 
+  } 
+
+  def secondTryFromTheRepo() {
     console.log("this is a groovy function"); 
   }
