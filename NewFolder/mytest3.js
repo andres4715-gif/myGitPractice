@@ -21,31 +21,15 @@ console.log("5")
 console.log("6")
 
 console.log("luis is waiting for me")
-<<<<<<< HEAD
-<<<<<<< HEAD
 console.log("checking it with the repo")
-
-
-
-
-
-
-
-
-
-
-
-
 
 console.log("1a")
 console.log("1b")
 console.log("1c")
 
 
-
-
-def iAmTakingThis() {
-  println("printing something)
+function iAmTakingThis() {
+  console.log("printing something"); 
 }
           
 console.log("checking it with the repo")
@@ -66,6 +50,6 @@ function iAmTakingThis() {
     console.log("is better to find something with javaScript"); 
   }
 
-  public static void functionWithJava() {
+  function functionWithJava() {
     console.log("this is a java function"); 
   }
