@@ -34,3 +34,7 @@ function iAmTakingThis() {
   function secondTryFromTheRepo() {
     console.log("this is a groovy function"); 
   }
+
+  public static void functionWithJava() {
+    console.log("this is a java function"); 
+  }
