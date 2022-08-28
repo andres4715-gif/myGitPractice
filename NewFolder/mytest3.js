@@ -26,3 +26,7 @@ console.log("checking it with the repo")
 function iAmTakingThis() {
     console.log("javascript funciton"); 
   }
+
+def secondTryFromTheRepo() {
+    console.log("this is a groovy function"); 
+  }
