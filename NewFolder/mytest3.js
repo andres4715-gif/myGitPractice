@@ -23,20 +23,33 @@ console.log("6")
 console.log("luis is waiting for me")
 console.log("checking it with the repo")
 
-
-
-
-
-
-
-
-
-
-
-
-
 console.log("1a")
 console.log("1b")
 console.log("1c")
 
 
+function iAmTakingThis() {
+  console.log("printing something"); 
+}
+          
+console.log("checking it with the repo")
+
+function iAmTakingThis() {
+    console.log("javascript funciton"); 
+  }
+
+  function iAmTakingThisFromjavaScript() {
+    console.log("javascript funciton"); 
+  } 
+
+  function secondTryFromTheRepo() {
+    console.log("this is a groovy function"); 
+  }
+
+  function thisIsJavaScriptFunction() {
+    console.log("is better to find something with javaScript"); 
+  }
+
+  function functionWithJava() {
+    console.log("this is a java function"); 
+  }
