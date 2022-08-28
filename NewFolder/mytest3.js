@@ -22,3 +22,21 @@ console.log("6")
 
 console.log("luis is waiting for me")
 console.log("checking it with the repo")
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log("1a")
+console.log("1b")
+console.log("1c")
+
+
