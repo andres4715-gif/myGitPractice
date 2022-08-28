@@ -21,6 +21,7 @@ console.log("5")
 console.log("6")
 
 console.log("luis is waiting for me")
+<<<<<<< HEAD
 console.log("checking it with the repo")
 
 
