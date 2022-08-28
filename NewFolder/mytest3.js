@@ -22,3 +22,8 @@ console.log("6")
 
 console.log("luis is waiting for me")
 console.log("checking it with the repo")
+
+def iAmTakingThis() {
+  println("printing something)
+}
+          
