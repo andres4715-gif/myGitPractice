@@ -5,4 +5,4 @@ console.log('✅ Rebase in progress');
 
 const data = [1, 2, 3];
 console.log(data);
-// form vscode:
+// myData from github repo
