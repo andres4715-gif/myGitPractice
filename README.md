@@ -3,6 +3,6 @@
 ```bash
 - Practice cherry-pick and backport 
 - Rebase from master to my personal branch ✅
-- Rebase + squash 
+- Rebase + squash ✅
 - git reset --soft 
 ```
